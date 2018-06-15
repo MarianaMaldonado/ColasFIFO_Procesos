@@ -1,0 +1,10 @@
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\FIFO_procesos\FIFO_procesos\bin\Debug\FIFO_procesos.exe.config
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\FIFO_procesos\FIFO_procesos\bin\Debug\FIFO_procesos.exe
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\FIFO_procesos\FIFO_procesos\bin\Debug\FIFO_procesos.pdb
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\FIFO_procesos\FIFO_procesos\obj\Debug\FIFO_procesos.csprojResolveAssemblyReference.cache
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\FIFO_procesos\FIFO_procesos\obj\Debug\FIFO_procesos.Form1.resources
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\FIFO_procesos\FIFO_procesos\obj\Debug\FIFO_procesos.Properties.Resources.resources
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\FIFO_procesos\FIFO_procesos\obj\Debug\FIFO_procesos.csproj.GenerateResource.Cache
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\FIFO_procesos\FIFO_procesos\obj\Debug\FIFO_procesos.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\FIFO_procesos\FIFO_procesos\obj\Debug\FIFO_procesos.exe
+C:\Users\Mariana Maldonado\Desktop\SOFTWARE\CUARTO SEMESTRE\ESTRUCTURA DE DATOS\2nda parcial\FIFO_procesos\FIFO_procesos\obj\Debug\FIFO_procesos.pdb
